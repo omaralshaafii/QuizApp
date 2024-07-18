@@ -26,4 +26,4 @@ A quiz app fueled by JSON files for dynamic question retrieval.
 
 ## Demo
 
-<a href="https://omarsha6an.github.io/QuizApp/">Click here</a>
+<a href="https://omaralshaafii.github.io/QuizApp/">Click here</a>
